@@ -69,7 +69,7 @@
     "eslint-plugin-ember": "^6.6.0",
     "eslint-plugin-import": "^2.17.3",
     "gfm-code-blocks": "^1.0.0",
-    "guidemaker": "git@github.com:billybonks/guidemaker.git#etc",
+    "guidemaker": "git@github.com:billybonks/guidemaker.git#84bab3edf0eae47ec08efa4eed9cd9d8eeb26ec4",
     "guidemaker-ember-template": "^1.2.0",
     "loader.js": "^4.7.0",
     "lodash": "^4.17.4",
